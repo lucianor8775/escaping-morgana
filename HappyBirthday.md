@@ -27,3 +27,6 @@ Jessica and Arthur calm down.
 Arthur; NO, i'm leaving.
 
 [He goes to his room, slams the door, and cries himself to sleep]
+
+[Stay awake?](Dimension-split/Stay-awake?.md)
+
