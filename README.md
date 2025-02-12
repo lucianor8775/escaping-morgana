@@ -19,4 +19,4 @@ He is sound asleep. In his dream he is envisioning a growing sword; he hears whi
  Jessica and Arthur calm down.
 
  Arthur, NO [in an angry tone]: I'm leaving.He goes to his room, slams the door, and
-[cries himself to sleep.](Pathway)
+[cries himself to sleep.](Pathway)2
