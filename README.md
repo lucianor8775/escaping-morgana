@@ -3,5 +3,5 @@
 
 
 
-<h4>Start your Journey Pathway [here](./Pathway)<h4>
+Start your Journey Pathway [here](./Pathway)
 
