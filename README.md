@@ -11,4 +11,4 @@ He is sound asleep. In his dream he is envisioning a growing sword; he hears whi
  Arthur: No, Jessica, they always do this; they always think about their children last.
  Jessica and Arthur calm down.
  Arthur, NO [in an angry tone]: I'm leaving.He goes to his room, slams the door, and
-[cries himself to sleep.](Dark)
+[cries himself to sleep.](Pathway)
