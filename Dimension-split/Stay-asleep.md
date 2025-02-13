@@ -7,3 +7,4 @@ Omninous figure; This is the game hub.
 Do you want to play the game or head back home?
 
 [Head back home ?](Go-home.md)
+[Play the game ?](Play-animals.md)
