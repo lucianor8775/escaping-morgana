@@ -18,4 +18,4 @@ Suddenly, he was back in the cockpit, the same clunky fighter jet, the same anno
 The voice boomed in his ears, and Arthur shot off like a rocket. This time, he wasn't just blasting lasers all willy-nilly. He was thinking, strategizing He remembered what the voice system said last time. "Incoming lasers, stay clear!"  Okay, so he needed to be more careful.  He weaved between enemy fire, doing barrel rolls and loop-de-loops like some kinda pro pilot, which he totally wasn't.  He targeted the planes that were aiming at him first, taking them out one by one
 
 And he have finally won the game.
-[New game]()
+[New game](Fight-the-evil-witch.md)
