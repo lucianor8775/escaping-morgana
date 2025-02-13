@@ -4,4 +4,4 @@
 
 animals:"why are you stealing!! its only your first day here and we have already caught you stealing. dont test us."
 
-Arthur: i swear i wasnt doing it on purpose, i had no idea that fruit belonged to you!! maybe you should try picking up after yourself instead of 
+Arthur: i swear i wasnt doing it on purpose, i had no idea that apple even belonged to you!! maybe you should try picking up after yourself.
