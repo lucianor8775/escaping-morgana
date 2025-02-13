@@ -1,3 +1,4 @@
+# FINAL BATTLE
  But here he was, holding this glowing blue sword. It was warm, like alive almost, in his hand. His heart was banging like a drum though, cause he was facing the witch , that witch. Her laugh was like nails on a chalkboard, and the whole place, it was a mess, like someone took a hammer to it.
 "You think you can stop me, bookworm?" The lady  said, all mean. Dark stuff was coming from her hands, like black and geeen smoke, trying to grab him.
 Arthur swallowed, hard. He remembered the stories he wrote, all the heroes. He wasn't just Arthur the writer now. He was Arthur, the hero, stuck in a story he didn't even write. He had to fight. For everyone stuck in the witch game. He wanted to go home.
