@@ -10,3 +10,6 @@ Arthur: is that? i think i hear my alarm in the distance. i think my alarm is go
 
 [turn off your alarm?](Turn-off.md)
 
+or
+
+[let it go off](Let-off.md)
