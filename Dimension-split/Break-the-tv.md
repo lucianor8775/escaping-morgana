@@ -28,3 +28,7 @@ Arthur ; M,O,R,G,A,N,A. MORGANA.
 
 Morgana ; You should've played my game.
 [She walks towards Arthur and she uses her magic to make him kneel down; she puts her index finger on Arthur's forehead, and BOOM!]
+
+[Arthur soul have been shattered, in the real world Arthor is laying on the floor lifeless]
+
+[Start over](Turn-it-off.md)
