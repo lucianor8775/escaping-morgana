@@ -6,4 +6,8 @@ Arthur: the beeping is getting unbearable. What do i do??
 
 [Arthur JUMPS out of bed]
 
-Family: HAPPY BIRTHDAY
+Family: HAPPY BIRTHDAY ARTHUR!!!
+
+Arthur: WHAT IS GOING ON?!?!
+
+
