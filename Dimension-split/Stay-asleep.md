@@ -1,5 +1,3 @@
-
-
 # Stay asleep
 
 With the blink of a flash, Arthur is falling; the scene is stunning. He falls past every game in the system, every fiction of reality. Falling.
