@@ -14,6 +14,6 @@ Jessica: Lets just forget about that and celebrate your birthday!
 
 Arthur: you're right, LETS CELEBRATE!!
 
-[the end](README.md)
+[the end](../README.md)
 
 
