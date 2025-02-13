@@ -6,4 +6,5 @@ dream, but I want to make the most of it before returning to my horrible reality
 
 Arthur: as i look around i notice that it is very vibrant. I think im gonna like this place a lot.
 
-[do you want to grab fruit off the floor?]
+[do you want to grab fruit off the floor?](Grab-fruit.md)
+[do you want to help an]
