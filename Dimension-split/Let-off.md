@@ -2,6 +2,8 @@
 
 Arthur: the beeping is getting unbearable. What do i do??
 
-[faint noises in the background]
+[faint voice starts saying, ARTHUR WAKE UP!!]
+
+
 
 
