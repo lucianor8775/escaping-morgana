@@ -12,4 +12,5 @@ morgana: you rude child. you should know better than to be stealing from others.
 
 Arthur: WHO ARE YOU!?!?
 
-morgana: i am morgana. 
+morgana: i am morgana.
+[New game](Fight-the-evil-witch.md)
