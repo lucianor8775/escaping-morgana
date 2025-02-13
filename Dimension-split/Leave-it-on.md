@@ -1,5 +1,5 @@
 # Leave it on
-With a blink of a flash, he’s falling. The scene is stunning; they pass through every game, every fictional reality, falling and falling over and over again.
+With a blink of a flash, he’s falling. The scene is stunning; he  pass through every game, every fictional reality, falling and falling over and over again.
 
 Arthur is both stunned and amazed; he is confused; he has fallen through all the games within his system. He doesn’t believe; who would? He was just asleep 5 minutes ago.
 

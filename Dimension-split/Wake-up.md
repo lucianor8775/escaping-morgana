@@ -6,3 +6,4 @@ Arthur has a nightmare about falling in an endless loop, and people are laughing
 Arthur walks back in towards his room; the game station is on but wasn't turned on.
 
 [Turn it off ?](Turn-it-off.md)
+[Leave it on ?](Leave-it-on.md)
