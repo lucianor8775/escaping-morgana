@@ -1,4 +1,5 @@
 # Leave it on
+[Arthur has an outer-body experience where he feels as though his body and spirit are separating; he is unable to move or speak.]
 With a blink of a flash, he’s falling. The scene is stunning; he  pass through every game, every fictional reality, falling and falling over and over again.
 
 Arthur is both stunned and amazed; he is confused; he has fallen through all the games within his system. He doesn’t believe; who would? He was just asleep 5 minutes ago.
