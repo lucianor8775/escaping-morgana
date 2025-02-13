@@ -1,4 +1,4 @@
-# Leave it on 
+# Leave it on
 With a blink of a flash, he’s falling. The scene is stunning; they pass through every game, every fictional reality, falling and falling over and over again.
 
 Arthur is both stunned and amazed; he is confused; he has fallen through all the games within his system. He doesn’t believe; who would? He was just asleep 5 minutes ago.
@@ -9,4 +9,13 @@ Lady, arrogant, i see nothing changed.
 
 Arthur; Whuuu
 
-Arthur; what does that mean?
+Arthur; You are someone I have never met in my life.
+
+Lady ; I'll give you the option to play my games and win a sizable prize, or you can return home and be with your family.
+
+[Play the games ?](Play-the-games.md)
+or
+[Go home ?](Go-home.md)
+
+
+
