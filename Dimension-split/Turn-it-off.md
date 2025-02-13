@@ -4,6 +4,8 @@ What's happening [Arthur says]
  
 [Arthur feels strange, feels his body resisting the magic applied to this station, and doesn't like that he's shutting it off.]
 
-[Leave it on]()
+[Leave it on ?]()
+
+[Break the Tv?]()
 
 
