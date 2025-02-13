@@ -4,7 +4,7 @@ Arthur swallowed, hard. He remembered the stories he wrote, all the heroes. He w
 He lifted the blue sword. It wasn't just blue, it was, like, shining, like hope or something. "This game is over,WITCH ," he said. He was surprised his voice didn't shake more
 I finally learned your name
 Lady ; how ?
-Arthur; you gave me hints, my aircraft license plate  [he envision him looking at it Le fay
+Arthur; you gave me hints, my aircraft license plate  [he envision him looking at it Le fay written on it]
 Arthur; you’re Morgan Le fay aka Morgana
 Arthur; you want this [ he lifts his hand he have a blue glowing sword]
 Arthur; My powers that i have, you appeared in  every of my dreams for a reason to get to know me.
