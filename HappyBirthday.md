@@ -28,5 +28,5 @@ Arthur; NO, i'm leaving.
 
 [He goes to his room, slams the door, and cries himself to sleep]
 
-[Wake up?](/workspaces/wd/projects/escaping-morgana/Dimension-split)
+[Wake up?](Dimension-split/Stay-awake?.md)
 
