@@ -29,5 +29,5 @@ Arthur; NO, i'm leaving.
 [He goes to his room, slams the door, and cries himself to sleep]
 
 [Wake-up?](Dimension-split/Wake-up.md)
-[Stay asleep?](Stay-asleep.md)
+[Stay asleep?](Dimension-split/Stay-asleep.md)
 
